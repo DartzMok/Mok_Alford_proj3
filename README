@@ -1,0 +1,31 @@
+# Project 01
+
+Ethan Mok (811-383-355),Jake Alford (810-160-836)
+    
+## Instructions
+
+To compile our code, type:
+
+```
+$ make compile
+```
+
+To run our code (after compiling it), type:
+
+```
+$ make run 
+
+or i.e.
+
+$ ./proj1.out -b -v 45 23 12 11 9 -e 9 
+```
+
+/To clean our code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+##Optional Quote(s)
+
+I want to be the very best like no one ever was
